@@ -75,5 +75,5 @@ public class WikiSurvey {
 	}
 }
 
-// hadoop jar MapReduce-0.0.1-SNAPSHOT.jar com.designpathshala.hadoop.MapReduce.Problem.WikiSurvey /user/hue/dp/mapreduce/wikisurvey /user/hue/dp/output
+// hadoop jar MapReduce-0.0.1-SNAPSHOT.jar com.designpathshala.hadoop.MapReduce.problem.WikiSurvey /user/hue/dp/mapreduce/wikisurvey /user/hue/dp/output
 
